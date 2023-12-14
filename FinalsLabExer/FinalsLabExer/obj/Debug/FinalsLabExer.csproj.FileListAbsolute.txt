@@ -1,0 +1,12 @@
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.FrmClubRegistration.resources
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.FrmUpdateMember.resources
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.Properties.Resources.resources
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\bin\Debug\FinalsLabExer.exe.config
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\bin\Debug\FinalsLabExer.exe
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\bin\Debug\FinalsLabExer.pdb
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.exe
+C:\Users\Christian\source\repos\FinalsLabExer\FinalsLabExer\obj\Debug\FinalsLabExer.pdb
